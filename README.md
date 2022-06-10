@@ -1,11 +1,3 @@
-# Bruno Arizio
-
-[![JS Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
-
-[![Screenshot of Website](bruno-arizio.png)](https://brunoarizio.com/)
-
-This is the repository of [Bruno Arizio](http://brunoarizio.com/) portfolio. We decided to be transparent and take a step forward in making this entire project open source so people can learn how to make the things we created. The website was awarded at [Awwwards](https://www.awwwards.com/) with Site of The Day and Developer Award in [November 25, 2019](https://www.awwwards.com/sites/bruno-arizio-portfolio).
-
 ## Overview
 
 ### Front End
@@ -37,7 +29,7 @@ After creating your `.env` file and setting up your Prismic account, you're able
 
 ```sh
 # Clone the project.
-git clone https://github.com/lhbzr/bruno-arizio.git
+git clone [https://github.com/ocestari/studio
 
 # Install npm depedencies.
 npm install
